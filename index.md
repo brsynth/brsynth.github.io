@@ -1,4 +1,4 @@
-<p style="text-align: center;">Team BioRetrosynth consists of two complementary groups: 
+<p style="text-align: center;">Team BioRetrosynth consists of two complementary groups:</p>
 
 <div class="tiles">
 
@@ -14,5 +14,4 @@
 
 </div><!-- /.tiles -->
 
-Please click on the above links to follow our research activities.
-</p>
+<p style="text-align: center;">Please click on the above links to follow our research activities.</p>
